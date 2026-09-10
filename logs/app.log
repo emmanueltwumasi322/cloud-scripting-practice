@@ -1,0 +1,9 @@
+INFO Application started
+INFO Database connected
+WARNING CPU usage high
+ERROR Failed login attempt
+INFO Request completed
+INFO User login successful
+WARNING Memory usage high
+ERROR Database timeout
+INFO Health check passed
