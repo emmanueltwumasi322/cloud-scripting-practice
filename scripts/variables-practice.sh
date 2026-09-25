@@ -3,7 +3,7 @@
 SERVER="web-server-01"
 REGION="us-east-1"
 ENVIRONMENT="dev"
-OWNER="Manny"
+OWNER="Emmanuel"
 SERVICE="EC2"
 
 echo "Server name: $SERVER"
